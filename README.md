@@ -10,38 +10,152 @@
 ## 🚀 Sobre mim
 
 Sou estudante de **Ciência de Dados** e Técnico em Segurança do Trabalho com forte interesse em:
-- **Machine Learning**
-- **Análise de Dados**
-- **BigQuery & SQL**
-- **Deep Learning**
-- **Cibersegurança e Análise de Logs**
-- **MLOps e automação**
+- Machine Learning  
+- Análise de Dados  
+- BigQuery & SQL  
+- Deep Learning  
+- Cibersegurança e Análise de Logs  
+- MLOps e automação  
 
-Atualmente estou construindo meu portfólio com projetos reais que unem **dados + segurança**, criando soluções inteligentes para problemas reais.
+Atualmente estou construindo meu portfólio com projetos reais que unem **dados + segurança**, criando soluções inteligentes para problemas do mundo real.
 
+<p align="left">
+      </a> 
+    <a href="https://github.com/andretristaotech?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/andretristaotech?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/andretristaotech?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/andretristaotech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    
 ---
 
-## 🧠 Habilidades Técnicas
+### 🤖 Linguagens e Tecnologias
 
-### **Linguagens**
-- Python  
-- SQL  
+<img 
+    align="left" 
+    alt="linux"
+    title="Linux" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="sql"
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="mysql"
+    title="Mysql" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="postgresql" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="azure"
+    title="Azure" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="bash" 
+    title="Bash"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="c++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="csharp" 
+    title="Csharp"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-### **Ferramentas & Tecnologias**
-- BigQuery  
-- BigQuery ML  
-- Power BI / Looker Studio  
-- Pandas, NumPy, Scikit-learn  
-- TensorFlow / Keras  
-- Git & GitHub  
-- Jupyter Notebook  
-- MLOps (pipelines, versionamento, boas práticas)  
+<br/>
+<br/>
 
-### **Cibersegurança**
-- Redes de Computadores  
-- Análise de Logs  
-- Segurança de Informações  
-- Certificação IBM Cybersecurity Analyst  
 
 ---
 
@@ -94,10 +208,9 @@ Atualmente estou construindo meu portfólio com projetos reais que unem **dados 
 
 ## 📫 Como me encontrar
 
-📧 **Email:** andretristaotech@gmail.com  
-🔗 **LinkedIn:** www.linkedin.com/in/
-andretristaotech  
-🐍 **GitHub:** você já está aqui!  
+📧 **Email:** andretristaotech@gmail.com
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/andretristaotech
 
 ---
 
