@@ -18,23 +18,6 @@ Sou estudante de **Ciência de Dados** e Técnico em Segurança do Trabalho com 
 - MLOps e automação  
 
 Atualmente estou construindo meu portfólio com projetos reais que unem **dados + segurança**, criando soluções inteligentes para problemas do mundo real.
-
-<p align="left">
-      </a> 
-    <a href="https://github.com/andretristaotech?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/andretristaotech?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/andretristaotech?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/andretristaotech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
     
 ---
 
@@ -156,6 +139,29 @@ Atualmente estou construindo meu portfólio com projetos reais que unem **dados 
 <br/>
 <br/>
 
+---
+
+## 📫 Como me encontrar
+
+<p align="left">
+  <a href = "mailto:andretristaotech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_white"></a>
+  <a href="https://www.linkedin.com/in/andretristaotech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+          </a>
+  <a href="https://github.com/andretristaotech?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/andretristaotech?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+     </a>
+    <a href="https://github.com/andretristaotech?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/andretristaotech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+
 
 ---
 
@@ -206,16 +212,7 @@ Atualmente estou construindo meu portfólio com projetos reais que unem **dados 
 
 ---
 
-## 📫 Como me encontrar
-
-📧 **Email:** andretristaotech@gmail.com
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/andretristaotech
-
----
-
 ## 🔥 Objetivo
-
 Construir uma jornada sólida em **Ciência de Dados** e **Cibersegurança**, entregando projetos que realmente resolvem problemas e mostram minha evolução contínua como profissional.
 
 ---
